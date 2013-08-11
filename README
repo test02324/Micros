@@ -1,0 +1,13 @@
+Mars Rover Test
+
+The attached is the source code.
+
+The entire application source is contained in the /src directory.
+
+It has been compiled against JDK v1.6. No additional libraries should be necessary to compile and run the source code.
+
+In addition there are some unit tests in the /test directory. These require JUnit 4 to run (tested with v4.11).
+
+The source code for the class to run the application is in /src/excercise/Main.java. This expects the commands to pass to the program to have as a command line argument a string containing commands to pass to the rover.
+
+After the program is run, the output consists of a description of the final position, and heading of the rover.
